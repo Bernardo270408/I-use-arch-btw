@@ -95,6 +95,8 @@ kdeconnect/
 # Mantém configs, mas remove o estado da aplicação
 Code/Backups/
 Code/Cached*/
+Code/User/workspaceStorage/
+Code - OSS/User/workspaceStorage/
 Code/User/History/
 Code/User/globalStorage/
 Code - OSS/Backups/
