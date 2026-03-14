@@ -193,6 +193,16 @@ dirs  = [
 	{ name = "Pictures", text = "", fg = "#cba6f7" },
 	{ name = "Public", text = "", fg = "#cba6f7" },
 	{ name = "Videos", text = "", fg = "#cba6f7" },
+	{ name = "Wallpapers", text="󰸉", fg = "#cba6f7" },
+	{ name = "Image-Line", text="", fg = "#cba6f7" },
+	{ name = "Notes", text="󰎚", fg = "#cba6f7" },
+	{ name = "Screenshots", text="󰹑", fg = "#cba6f7" },
+	{ name = "Templates", text="", fg = "#cba6f7" },
+	{ name = "yay", text="󰣇", fg = "#cba6f7" },
+	{ name = "ytmdesktop", text="", fg = "#cba6f7" },
+	{ name = "Repositories", text="", fg = "#cba6f7" },
+	{ name = "Assets", text="", fg = "#cba6f7" },
+	{ name = "Builds", text="", fg = "#cba6f7" }
 ]
 files = [
 	{ name = ".babelrc", text = "", fg = "#cba6f7" },
@@ -409,6 +419,8 @@ files = [
 	{ name = "xmonad.hs", text = "", fg = "#cba6f7" },
 	{ name = "xorg.conf", text = "", fg = "#cba6f7" },
 	{ name = "xsettingsd.conf", text = "", fg = "#cba6f7" },
+	{ name = "arch-linux.png", text = "", fg = "#cba6f7" },
+	{ name = "profile.png", text = "", fg = "#cba6f7" }
 ]
 exts = [
 	{ name = "3gp", text = "", fg = "#cba6f7" },
