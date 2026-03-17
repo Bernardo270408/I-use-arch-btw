@@ -3,7 +3,7 @@
     "files.autoSave": "afterDelay",
     "git.enableSmartCommit": true,
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.colorTheme": "Nord",
     "code-runner.executorMap": {
 
         "javascript": "node",
